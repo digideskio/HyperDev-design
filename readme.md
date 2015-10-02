@@ -12,9 +12,9 @@ Git Large File Storage replaces large binary files like graphics with text point
 
 🍰🍰🍰
 
-## If you get a conflict
+## Conflicts
 
-Unfortunately there's no magical way around this. 
+Unfortunately there's no elegant way around binary file conflicts. 
 Fortunately, it's very unlikely to happen irl. 
 
 Keep both files, name them differently or throw one into `/archived`. Feel free to add your own named folders (i.e. `/pirijan`) to this repo too.
