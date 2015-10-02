@@ -1,6 +1,6 @@
-# HyperWeb Design Stuff
+# Logos, illustrations, fonts, mockups
 
-Logos, illustrations, fonts, mockups – All the design things! ✨
+All the things! ✨
 
 To use this, you'll need to first install [the Git LFS plugin](https://git-lfs.github.com)
 
