@@ -2,7 +2,9 @@
 
 All the things! ✨
 
-To use this, you'll need to first install [the Git LFS plugin](https://git-lfs.github.com)
+(_very_ loosely organized)
+
+**To commit, you'll need to first install [the Git LFS plugin](https://git-lfs.github.com)**
 
 ## How this repo/Git-LFS works
 
